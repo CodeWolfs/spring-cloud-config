@@ -1,2 +1,3 @@
 config:
-  info: branch:master, spring-cloud-config-dev, version 15
+  info: branch:master, spring-cloud-config-dev, version 16
+  
